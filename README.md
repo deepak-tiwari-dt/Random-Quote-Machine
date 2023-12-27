@@ -1,1 +1,1 @@
-# [Random Quote Machine](https://deepak-tiwari-dt.github.io/Random-Quote-Machine/)
+# [Random Quote Machine](https://random-quote-machine-app.netlify.app/)
